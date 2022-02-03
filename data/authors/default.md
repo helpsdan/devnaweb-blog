@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Daniel Alves
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Engenheiro de Software
+company: Stone.co
+github: 'https://github.com/helpsdan'
+linkedin: 'https://www.linkedin.com/in/danaguiar/'
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Sou Engenheiro de Software de São Paulo, Brasil. Eu pretendo criar uma escola de tecnologia para ajudar as pessoas a encontrar seu primeiro emprego em TI.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Passei os últimos 5 anos trabalhando com TI principalmente na área financeira com empresas de pagamento e máquinas de cartão. Meu objetivo é criar uma escola de tecnologia para ajudar as pessoas a encontrar seu primeiro emprego.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando um MBA em Engenharia Devops. Além disso, atualmente estou trabalhando como Engenheiro de Software na Stone.co.

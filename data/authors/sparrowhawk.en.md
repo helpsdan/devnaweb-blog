@@ -1,6 +1,6 @@
 ---
 name: Sparrow Hawk
-avatar: /static/images/sparrowhawk-avatar.jpg
+avatar: /static/images/avatar.png
 occupation: Magicien de la mer de terre
 company: mer de terre
 twitter: https://twitter.com/sparrowhawk

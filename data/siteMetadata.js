@@ -1,22 +1,26 @@
 const siteMetadata = {
-  title: { en: 'Next.js Starter Blog', fr: 'Starter de blog NextJs' },
-  author: 'Tails Azimuth',
-  headerTitle: { en: 'TailwindBlog', fr: 'blog Tailwind' },
-  // description: 'A blog created with Next.js and Tailwind.css',
-  description: { en: 'en description', fr: 'Description en fr' },
-  language: 'en-us',
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  title: {
+    en: 'Devnaweb - A developer blogger',
+    pt: 'Devnaweb - Um dev blogueiro',
+  },
+  author: 'Daniel Alves',
+  headerTitle: { en: 'Devnaweb', pt: 'Devnaweb' },
+  description: {
+    en: 'Devnaweb - A blog created to help developers',
+    pt: 'Devnaweb - Um blog criado para ajudar desenvolvedores',
+  },
+  language: 'pt-br',
+  siteUrl: 'https://devnaweb.com.br',
+  siteRepo: 'https://github.com/helpsdan/devnaweb-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
-  locale: 'en-US',
+  email: 'helpsdan7@gmail.com',
+  github: 'https://github.com/helpsdan',
+  //facebook: 'https://facebook.com',
+  //youtube: 'https://youtube.com',
+  linkedin: 'https://www.linkedin.com/in/danaguiar/',
+  locale: 'pt-BR',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
@@ -45,7 +49,7 @@ const siteMetadata = {
       metadata: '0',
       // theme example: light, dark, dark_dimmed, dark_high_contrast
       // transparent_dark, preferred_color_scheme, custom
-      theme: 'light',
+      theme: 'dark',
       // theme when dark mode
       darkTheme: 'transparent_dark',
       // If the theme option above is set to 'custom`

@@ -1,5 +1,5 @@
 const projectsData = {
-  en: [
+  pt: [
     {
       title: 'A Search Engine',
       description: `What if you could look up any information in the world? Webpages, images, videos
@@ -17,7 +17,7 @@ const projectsData = {
       href: '/blog/the-time-machine',
     },
   ],
-  fr: [
+  en: [
     {
       title: 'Un moteur de recherche',
       description: `Et si vous pouviez rechercher n'importe quelle information dans le monde ? Pages web, images, vidéos

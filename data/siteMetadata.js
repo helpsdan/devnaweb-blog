@@ -19,6 +19,7 @@ const siteMetadata = {
   github: 'https://github.com/helpsdan',
   instagram: 'https://instagram.com/devnaweb',
   linkedin: 'https://www.linkedin.com/in/danaguiar/',
+  spotify: 'https://open.spotify.com/user/_dan.alves?si=4ac0ce84f3a54f88',
   //facebook: 'https://facebook.com',
   //youtube: 'https://youtube.com',
   locale: 'pt-BR',

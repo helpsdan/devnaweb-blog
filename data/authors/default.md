@@ -7,6 +7,7 @@ email: helpsdan7@gmail.com
 linkedin: https://www.linkedin.com/in/danaguiar/
 github: https://github.com/helpsdan
 instagram: https://instagram.com/devnaweb
+spotify: https://open.spotify.com/user/_dan.alves?si=4ac0ce84f3a54f88
 ---
 
 Sou Engenheiro de Software de São Paulo, Brasil. Eu pretendo criar uma escola de tecnologia para ajudar as pessoas a encontrar seu primeiro emprego em TI.

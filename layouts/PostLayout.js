@@ -5,11 +5,9 @@ import { BlogSEO } from '@/components/SEO'
 import Image from '@/components/Image'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
-import Comments from '@/components/comments'
 import useTranslation from 'next-translate/useTranslation'
 import formatDate from '@/lib/utils/formatDate'
 import { useRouter } from 'next/router'
-import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 
 const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/master/data/blog/${fileName}`
 const discussUrl = (slug) =>
@@ -39,7 +37,6 @@ export default function PostLayout({
         availableLocales={availableLocales}
         {...frontMatter}
       />
-      <ScrollTopAndComment />
       <article>
         <div className="xl:divide-y xl:divide-gray-200 xl:dark:divide-gray-700">
           <header className="pt-6 xl:pb-6">
@@ -105,7 +102,6 @@ export default function PostLayout({
                 {` • `}
                 <Link href={editUrl(fileName)}>{t('common:github')}</Link>
               </div>
-              <Comments frontMatter={frontMatter} />
             </div>
             <footer>
               <div className="text-sm font-medium leading-5 divide-gray-200 xl:divide-y dark:divide-gray-700 xl:col-start-1 xl:row-start-2">

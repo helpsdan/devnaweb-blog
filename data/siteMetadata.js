@@ -6,8 +6,8 @@ const siteMetadata = {
   author: 'Daniel Alves',
   //headerTitle: { en: 'Devnaweb', pt: 'Devnaweb' },
   description: {
-    en: 'Devnaweb - A blog created to help developers',
-    pt: 'Devnaweb - Um blog criado para ajudar desenvolvedores',
+    en: 'A blog created to help developers',
+    pt: 'Um blog criado para ajudar desenvolvedores',
   },
   language: 'pt-br',
   siteUrl: 'https://devnaweb.com.br',
@@ -17,9 +17,10 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'helpsdan7@gmail.com',
   github: 'https://github.com/helpsdan',
+  instagram: 'https://instagram.com/devnaweb',
+  linkedin: 'https://www.linkedin.com/in/danaguiar/',
   //facebook: 'https://facebook.com',
   //youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/in/danaguiar/',
   locale: 'pt-BR',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics

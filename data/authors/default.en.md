@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: Daniel Alves
 avatar: /static/images/avatar.png
-occupation: Professeur des sciences atmosphériques
-company: Université de Stanford
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Software Engineer
+company: Stone.co
+email: helpsdan7@gmail.com
+linkedin: https://www.linkedin.com/in/danaguiar/
+github: https://github.com/helpsdan
+instagram: https://instagram.com/devnaweb
 ---
 
-Tails Azimuth est un professeur des sciences atmosphériques au laboratoire d'IA de Stanford. Ses recherches portent sur la modélisation complexe des vents arrière, des vents avant et des vents arrière.
+I'm a Software Engineer from São Paulo, Brazil. I aim to create a Tech-school to help people in finding their first job on IT.
 
-Version française
+I have been spent the last 5 years working with IT mostly in finance area with payment companies and card machines. My aim is to create a Tech-school to help people in finding their first job.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have a degree in Analysis and Systems Development and I'm starting a MBA in Devops Engineering. In addiction, I'm currently working on as Software Engineer at Stone.co.

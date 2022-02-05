@@ -15,6 +15,7 @@ export default function AuthorLayout({ children, frontMatter, availableLocales }
     linkedin,
     github,
     instagram,
+    spotify,
   } = frontMatter
   const { t } = useTranslation()
 
@@ -49,6 +50,7 @@ export default function AuthorLayout({ children, frontMatter, availableLocales }
               <SocialIcon kind="linkedin" href={linkedin} />
               <SocialIcon kind="twitter" href={twitter} />
               <SocialIcon kind="instagram" href={instagram} />
+              <SocialIcon kind="spotify" href={spotify} />
             </div>
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">{children}</div>

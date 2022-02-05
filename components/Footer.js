@@ -8,7 +8,7 @@ export default function Footer() {
   const { locale } = useRouter()
   const { t } = useTranslation()
 
-  const { email, github, instagram, linkedin } = siteMetadata
+  const { email, github, instagram, linkedin, spotify } = siteMetadata
 
   return (
     <footer>
@@ -23,6 +23,7 @@ export default function Footer() {
           <SocialIcon kind="github" href={github} />
           <SocialIcon kind="linkedin" href={linkedin} />
           <SocialIcon kind="instagram" href={instagram} />
+          <SocialIcon kind="spotify" href={spotify} />
         </div>
         <div className="flex mb-2 space-x-2 text-sm text-gray-500 dark:text-gray-400">
           <div>{siteMetadata.author}</div>

@@ -10,7 +10,7 @@ summary: 'Dicas do Markdown para todas as suas necessidades! Um guia ilustrado b
 
 - [Introdução](#introduction)
 - [O que é Markdown](#what-is)
-- [Guia de Sintaxa](#sintaxe)
+- [Guia de Sintaxe](#sintax)
 - [Headers](#headers)
   - [H1 tag](#headers-h1)
   - [H2 tag](#headers-h2)

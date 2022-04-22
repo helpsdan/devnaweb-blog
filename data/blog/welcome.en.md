@@ -5,15 +5,7 @@ tags: ['personal']
 draft: false
 summary: 'How it all started, what is this blog for, what is its purpose?'
 ---
-
-### Table of Contents
-
-1. [Introduction](#introduction)
-2. [How everything started](#start)
-3. [What is the aim](#aim)
-4. [What is its purpose](#purpose)
-5. [Conclusion](#finish)
-
+<TOCInline toc={props.toc} asDisclosure toHeading={3} />
 ![devnaweb-banner](/static/images/twitter-card.png)
 
 ## Hey devs, how everything is going? <a name="introduction"></a>

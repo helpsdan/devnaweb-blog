@@ -6,28 +6,9 @@ draft: false
 summary: 'O que é um desenvolvedor? Quais as melhores linguagens para aprender? Como se tornar um desenvolvedor?'
 ---
 
-<a name="summary"></a>
+<TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
 ![developer](/static/images/developer.jpg)
-
-### Sumário
-
-- [Introdução](#introduction)
-- [Como se tornar um desenvolvedor?](#become-dev)
-  - [Por que há uma demanda crescente por desenvolvedores?](#dev-demand)
-  - [Qual faculdade escolher para se tornar um desenvolvedor?](#dev-university)
-  - [Quanto ganha um desenvolvedor?](#dev-salary)
-- [Quais são as funções que um desenvolvedor pode ter?](#functions)
-  - [Desenvolvedor Full stack](#dev-fullstack)
-  - [Desenvolvedor Mobile](#dev-mobile)
-  - [Desenvolvedor Frontend](#dev-frontend)
-  - [Desenvolvedor Backend](#dev-backend)
-- [Quais linguagens um desenvolvedor precisa aprender?](#languages)
-  - [Full stack](#fullstack)
-  - [Mobile](#mobile)
-  - [Frontend](#frontend)
-  - [Backend](#backend)
-- [Conclusão](#finish)
 
 ## Salve família, tudo certo? <a name="introduction"></a>
 

@@ -5,14 +5,7 @@ tags: ['personal']
 draft: false
 summary: 'Como tudo começou, para que esse blog serve, qual seu propósito?'
 ---
-
-### Sumário
-
-1. [Intro](#introduction)
-2. [Como tudo começou](#start)
-3. [Qual o objetivo](#aim)
-4. [Qual o propósito](#propose)
-5. [Conclusão](#finish)
+<TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
 ![devnaweb-banner](/static/images/twitter-card.png)
 

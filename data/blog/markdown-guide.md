@@ -5,31 +5,7 @@ tags: ['guide']
 draft: false
 summary: 'Dicas do Markdown para todas as suas necessidades! Um guia ilustrado baseado no GitHub Flavored Markdown.'
 ---
-
-## Sumário
-
-- [Introdução](#introduction)
-- [O que é Markdown](#what-is)
-- [Guia de Sintaxe](#sintax)
-- [Headers](#headers)
-  - [H1 tag](#headers-h1)
-  - [H2 tag](#headers-h2)
-  - [H3 tag](#headers-h3)
-- [Enfase](#emphasis)
-- [Listas](#lists)
-  - [Não ordenada](#lists-unordered)
-  - [Ordenada](#lists-ordered)
-- [Imagens](#images)
-- [Links](#images)
-- [Citações em bloco](#blockquotes)
-- [Código](#inline-code)
-- [Realce de sintaxe](#syntax-highlighting)
-- [Notas de rodapé](#footnotes)
-- [Listas de Tarefas](#task-list)
-- [Tabelas](#tables)
-- [Tachado](#strikethrough)
-
----
+<TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
 ### Introdução <a name="introduction"></a>
 

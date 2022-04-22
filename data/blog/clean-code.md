@@ -6,13 +6,7 @@ draft: false
 summary: 'Código limpo explicado - uma introdução prática à codificação limpa para iniciantes!'
 ---
 
-### Sumário <a name="summary"></a>
-
-- [Introdução](#introduction)
-- [Como nomear variáveis (E outras coisas)](#variables)
-- [Como escrever funções](#functions)
-- [Bônus](#bonus)
-- [Conclusão](#conclusion)
+<TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
 ## Fala devs, como cês tão? <a name="introduction"></a>
 

@@ -6,30 +6,7 @@ draft: false
 summary: 'Markdown cheatsheet for all your needs! An illustrated guide based on GitHub Flavored Markdown.'
 ---
 
-### Table of Contents
-
-- [Introduction](#introduction)
-- [What is Markdown](#what-is)
-- [Sintax Guide](#sintax)
-- [Headers](#headers)
-  - [H1 tag](#headers-h1)
-  - [H2 tag](#headers-h2)
-  - [H3 tag](#headers-h3)
-- [Emphasis](#emphasis)
-- [Lists](#lists)
-  - [Unordered](#lists-unordered)
-  - [Ordered](#lists-ordered)
-- [Images](#images)
-- [Links](#links)
-- [Blockquotes](#blockquotes)
-- [Inline code](#inline-code)
-- [Syntax highlighting](#syntax-highlighting)
-- [Footnotes](#footnotes)
-- [Task Lists](#task-list)
-- [Tables](#tables)
-- [Strikethrough](#strikethrough)
-
----
+<TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
 ### Introduction <a name="introduction"></a>
 

@@ -6,13 +6,7 @@ draft: false
 summary: 'Clean Code Explained - A hands-on introduction to clean coding for beginners!'
 ---
 
-### Table of Contents <a name="summary"></a>
-
-- [Introduction](#introduction)
-- [How to name variables (And other things)](#variables)
-- [How to write functions](#functions)
-- [Bonus](#bonus)
-- [Conclusion](#conclusion)
+<TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
 ## Hey devs, how is everything going? <a name="introduction"></a>
 

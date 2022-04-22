@@ -6,25 +6,9 @@ draft: false
 summary: 'I leave here a tips guide about things that I believe would be very useful when I started to study programming'
 ---
 
-<a name="summary"></a>
+<TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
 ![developer](/static/images/development-tips.jpg)
-
-### Table of Contents
-
-- [Introduction](#introduction)
-- [Tip 1](#1)
-- [Tip 2](#2)
-- [Tip 3](#3)
-- [Tip 4](#4)
-- [Tip 5](#5)
-- [Tip 6](#6)
-- [Tip 7](#7)
-- [Tip 8](#8)
-- [Tip 9](#9)
-- [Tip 10](#10)
-- [Bonus](#bonus)
-- [Conclusion](#finish)
 
 ### Hey devs, look me here again! How are you?
 

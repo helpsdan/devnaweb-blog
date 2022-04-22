@@ -6,28 +6,9 @@ draft: false
 summary: 'What is a developer? What are the best languages ​​to learn? How to become a developer?'
 ---
 
-<a name="summary"></a>
+<TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
 ![developer](/static/images/developer.jpg)
-
-### Table of Contents
-
-- [Introduction](#introduction)
-- [How to become a developer?](#become-dev)
-  - [Why is the demand for developers growing?](#dev-demand)
-  - [Which college to choose to become a developer?](#dev-university)
-  - [What are the average developers salaries?](#dev-salary)
-- [What are the roles a developer can have?](#functions)
-  - [Full stack developer](#dev-fullstack)
-  - [Mobile Developer](#dev-mobile)
-  - [Frontend Developer](#dev-frontend)
-  - [Backend Developer](#dev-backend)
-- [What languages ​​does a developer need to learn?](#languages)
-  - [Fullstack](#fullstack)
-  - [Mobile](#mobile)
-  - [Frontend](#frontend)
-  - [Backend](#backend)
-- [Conclusion](#finish)
 
 ## Hey guys, how are you doing? <a name="introduction"></a>
 

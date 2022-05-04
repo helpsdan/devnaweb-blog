@@ -14,7 +14,7 @@ summary: 'Explicação ultra simplificada para design patterns!'
 
 O post de hoje é sobre Design Patterns, um tópico que pode facilmente fazer a mente de qualquer pessoa bugar. Aqui eu tento isso ficar na sua mente (e talvez na minha) explicando-os da maneira <i>mais simples</i> possível.
 
-## Introdução
+## Introdução <a name="introduction"></a>
 
 Design patterns são soluções para problemas recorrentes; **diretrizes sobre como lidar com determinados problemas**. Eles não são classes, pacotes ou bibliotecas que você pode conectar em seu aplicativo e esperar que a mágica aconteça. Estas são, antes, orientações sobre como lidar com certos problemas em determinadas situações.
 
